@@ -1,0 +1,68 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#navbar{
+	background-image: linear-gradient(#ff99cc, #99ccff);
+	z-index: 999;
+}
+
+#navlink{
+	list-style-type: none;
+}
+
+#nav-link {
+	text-decoration: none;
+	color: black;
+}
+
+.nav-link:hover {
+	text-decoration: none;
+	color: white;
+	background-color: blue;
+	border-radius: 20px;
+}
+
+.nav-brand:hover{
+	text-decoration: none;
+	color: white;
+	background-color: blue;
+	border-radius: 20px;
+}
+
+.heading{
+	font-style: oblique;
+	padding-top: 10px;
+
+}
+
+#maindiv {
+	background-image: linear-gradient(#ff99cc, #99ccff);
+	background-size: cover;
+	background-repeat:no-repeat;
+}
+
+#contact{
+	background-image: url(https://images.unsplash.com/uploads/141103282695035fa1380/95cdfeef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Z2V0JTIwaW4lMjB0b3VjaHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80);
+	height: 100%;
+	object-fit: contain;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#tools{
+	background-image: url(https://static.vecteezy.com/system/resources/thumbnails/000/625/844/small_2x/Geometric_abstract_light_blue_background_for_website_wallpapers_bussines_templates.jpg);
+	background-size: cover;
+	background-repeat:no-repeat;
+	height: 50vh;
+	object-fit: contain;
+}
+
+#Carriza{
+	font-family: 'Raleway', sans-serif;
+}
+
+
+
